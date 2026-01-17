@@ -39,7 +39,7 @@ export default function AboutPage() {
           >
             <div className="aspect-[4/5] bg-[#111] rounded-3xl overflow-hidden relative z-10">
               <img 
-                src="/chef.jpg" 
+                src="/chef.webp" 
                 alt="Our Roots" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
@@ -92,7 +92,7 @@ export default function AboutPage() {
               className="flex flex-col md:flex-row gap-8 items-center"
             >
               <div className="w-full md:w-1/2 aspect-video bg-[#111] overflow-hidden rounded-2xl">
-                <img src="/Hand.jpg" className="w-full h-full object-cover opacity-60 hover:opacity-100 transition-opacity" alt="Hand Rolling" />
+                <img src="/Hand.webp" className="w-full h-full object-cover opacity-60 hover:opacity-100 transition-opacity" alt="Hand Rolling" />
               </div>
               <div className="w-full md:w-1/2">
                 <span className="text-orange-600 font-bold text-4xl italic opacity-20">01.</span>
@@ -108,7 +108,7 @@ export default function AboutPage() {
               className="flex flex-col md:flex-row-reverse gap-8 items-center"
             >
               <div className="w-full md:w-1/2 aspect-video bg-[#111] overflow-hidden rounded-2xl">
-                <img src="/Sauce.jpg" className="w-full h-full object-cover opacity-60 hover:opacity-100 transition-opacity" alt="Sourcing" />
+                <img src="/Sauce.webp" className="w-full h-full object-cover opacity-60 hover:opacity-100 transition-opacity" alt="Sourcing" />
               </div>
               <div className="w-full md:w-1/2 text-right md:text-left">
                 <span className="text-orange-600 font-bold text-4xl italic opacity-20">02.</span>

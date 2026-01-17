@@ -3,12 +3,12 @@ import { motion, AnimatePresence } from "framer-motion";
 
 
 const menuData = [
-  { id: 1, category: "Pasta", name: "Truffle Tagliatelle", price: 24, img: "/P1.png", desc: "Fresh ribbons with black truffle cream." },
-  { id: 2, category: "Pasta", name: "Spicy Arrabbiata", price: 18, img: "/P2.png", desc: "San Marzano tomatoes & Calabrian chili." },
-  { id: 3, category: "Pizza", name: "Burrata Margherita", price: 22, img: "/P2.png", desc: "Creamy burrata, basil, and olive oil." },
-  { id: 4, category: "Sides", name: "Garlic Focaccia", price: 10, img: "/hero.png", desc: "Wood-fired with rosemary and sea salt." },
-  { id: 5, category: "Desserts", name: "Classic Tiramisu", price: 12, img: "/P1.png", desc: "Espresso-soaked ladyfingers & mascarpone." },
-  { id: 6, category: "Drinks", name: "Aperol Spritz", price: 14, img: "/P1.png", desc: "Classic Italian summer cocktail." },
+  { id: 1, category: "Pasta", name: "Truffle Tagliatelle", price: 24, img: "/P1.webp", desc: "Fresh ribbons with black truffle cream." },
+  { id: 2, category: "Pasta", name: "Spicy Arrabbiata", price: 18, img: "/P2.webp", desc: "San Marzano tomatoes & Calabrian chili." },
+  { id: 3, category: "Pizza", name: "Burrata Margherita", price: 22, img: "/P2.webp", desc: "Creamy burrata, basil, and olive oil." },
+  { id: 4, category: "Sides", name: "Garlic Focaccia", price: 10, img: "/hero.webp", desc: "Wood-fired with rosemary and sea salt." },
+  { id: 5, category: "Desserts", name: "Classic Tiramisu", price: 12, img: "/P1.webp", desc: "Espresso-soaked ladyfingers & mascarpone." },
+  { id: 6, category: "Drinks", name: "Aperol Spritz", price: 14, img: "/P1.webp", desc: "Classic Italian summer cocktail." },
 ];
 
 const categories = ["All", "Pasta", "Pizza", "Sides", "Desserts", "Drinks"];

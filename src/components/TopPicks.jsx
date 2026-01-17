@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
 const topPicks = [
-  { id: "01", name: "Truffle Tagliatelle", price: "28", tag: "Chef's Choice", img: "/P1.png", desc: "Hand-shaved Umbrian truffles with aged pecorino." },
-  { id: "02", name: "Midnight Penne", price: "24", tag: "Limited", img: "/P3.png", desc: "Squid ink pasta with roasted garlic and chili oil." },
-  { id: "03", name: "Golden Carbonara", price: "26", tag: "Must Try", img: "/P2.png", desc: "Smoked guanciale and organic duck egg yolk." },
+  { id: "01", name: "Truffle Tagliatelle", price: "28", tag: "Chef's Choice", img: "/P1.webp", desc: "Hand-shaved Umbrian truffles with aged pecorino." },
+  { id: "02", name: "Midnight Penne", price: "24", tag: "Limited", img: "/P3.webp", desc: "Squid ink pasta with roasted garlic and chili oil." },
+  { id: "03", name: "Golden Carbonara", price: "26", tag: "Must Try", img: "/P2.webp", desc: "Smoked guanciale and organic duck egg yolk." },
 ];
 
 export default function TopPicks() {

@@ -2,10 +2,10 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 const menuItems = [
-  { id: "01", name: "Truffle Tagliatelle", category: "Signature", price: "24", img: "/P1.png", detail: "Fresh black truffle, aged parmesan, porcini butter." },
-  { id: "02", name: "Midnight Penne", category: "Spicy", price: "19", img: "/hero.png", detail: "Squid ink pasta, chili flakes, roasted garlic oil." },
-  { id: "03", name: "Burrata Ravioli", category: "Classic", price: "22", img: "/P2.png", detail: "Soft burrata heart, heirloom tomato coulis, basil oil." },
-  { id: "04", name: "Smoked Carbonara", category: "Popular", price: "21", img: "/P3.png", detail: "Guanciale, pecorino romano, smoked egg yolk." },
+  { id: "01", name: "Truffle Tagliatelle", category: "Signature", price: "24", img: "/P1.webp", detail: "Fresh black truffle, aged parmesan, porcini butter." },
+  { id: "02", name: "Midnight Penne", category: "Spicy", price: "19", img: "/hero.webp", detail: "Squid ink pasta, chili flakes, roasted garlic oil." },
+  { id: "03", name: "Burrata Ravioli", category: "Classic", price: "22", img: "/P2.webp", detail: "Soft burrata heart, heirloom tomato coulis, basil oil." },
+  { id: "04", name: "Smoked Carbonara", category: "Popular", price: "21", img: "/P3.webp", detail: "Guanciale, pecorino romano, smoked egg yolk." },
 ];
 
 export default function NeoNoirMenu() {

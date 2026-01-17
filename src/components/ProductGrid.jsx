@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
 const products = [
-  { id: 1, name: "Truffle Tagliatelle", price: "24", tag: "Signature", img: "/P1.png", offset: "lg:mt-0" },
-  { id: 2, name: "Midnight Penne", price: "19", tag: "Spicy", img: "/hero.png", offset: "lg:mt-24" },
-  { id: 3, name: "Burrata Ravioli", price: "22", tag: "Classic", img: "/P2.png", offset: "lg:-mt-12" },
-  { id: 4, name: "Smoked Carbonara", price: "21", tag: "Popular", img: "/P3.png", offset: "lg:mt-12" },
+  { id: 1, name: "Truffle Tagliatelle", price: "24", tag: "Signature", img: "/P1.webp", offset: "lg:mt-0" },
+  { id: 2, name: "Midnight Penne", price: "19", tag: "Spicy", img: "/hero.webp", offset: "lg:mt-24" },
+  { id: 3, name: "Burrata Ravioli", price: "22", tag: "Classic", img: "/P2.webp", offset: "lg:-mt-12" },
+  { id: 4, name: "Smoked Carbonara", price: "21", tag: "Popular", img: "/P3.webp", offset: "lg:mt-12" },
 ];
 
 export default function DecentProductGrid() {

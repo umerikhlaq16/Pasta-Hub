@@ -68,7 +68,7 @@ export default function HeroSection() {
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[110%] h-[110%] md:w-[120%] md:h-[120%] border border-white/5 rounded-full pointer-events-none hidden sm:block" />
           
           <motion.img
-            src="/hero.png"
+            src="/hero.webp"
             alt="Signature Dish"
             animate={{ y: [0, -15, 0] }}
             transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
