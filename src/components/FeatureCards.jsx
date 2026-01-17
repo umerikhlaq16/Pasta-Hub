@@ -26,7 +26,7 @@ export default function FeaturedDish() {
             className="relative z-10"
           >
             <img 
-              src="/P1.png" 
+              src="/P1.webp" 
               alt="Featured Pasta" 
               className="w-full max-w-lg mx-auto drop-shadow-[0_40px_60px_rgba(0,0,0,0.9)]"
             />
